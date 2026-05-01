@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently, I am a third-year PhD student in Computer Science at the Computer Vision Group in the School of Electronic Engineering and Computer Science at the Queen Mary University of London, under the supervision of [Prof. Shaogang Gong](http://www.eecs.qmul.ac.uk/~sgg/).
+Currently, I am a third-year PhD student in Computer Science at the Computer Vision Group in the School of Electronic Engineering and Computer Science at the Queen Mary University of London, under the supervision of [Prof. Shaogang Gong](https://ssgong.github.io/).
 
 My research aim is to answer the question: In what ways can large language models be optimally utilized to facilitate multimodal learning in fine-grained unsupervised domain adaptation and domain generalization? Consequently, I am deeply interested in generative models, multimodal, and domain generalization.
 
@@ -33,7 +33,7 @@ My research aim is to answer the question: In what ways can large language model
 <div class='paper-box-text' markdown="1">
 
 [Temporal Score Analysis for Understanding and Correcting Diffusion Artifacts](https://arxiv.org/pdf/2503.16218)  
-**CVPR 2025**
+**CVPR 2025 (Poster)**
 
 **Yu Cao**, Zengqun Zhao, Ioannis Patras, Shaogang Gong
 
@@ -45,7 +45,7 @@ My research aim is to answer the question: In what ways can large language model
 <div class='paper-box-text' markdown="1">
 
 [AIM-Fair: Advancing Algorithmic Fairness via Selectively Fine-Tuning Biased Models with Contextual Synthetic Data](https://arxiv.org/abs/2503.05665)  
-**CVPR 2025**
+**CVPR 2025 (Poster)**
 
 Zengqun Zhao, Ziquan Liu, **Yu Cao**, Shaogang Gong, Ioannis Patras
 
